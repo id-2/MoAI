@@ -21,6 +21,6 @@ deepspeed
 wandb
 paddleocr
 paddlepaddle-gpu
-pillow==9.3.0
+pillow==10.2.0
 mmdet==3.3.0
 mmcv==2.0.0rc4
